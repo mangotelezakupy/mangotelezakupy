@@ -8,7 +8,7 @@
   <a href="http://wysparetardow.pl/">
    <img alt="Github" src="https://img.shields.io/github/followers/mangotelezakupy?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
    <a href="http://wysparetardow.pl/">
-   <img alt="Github" src="https://img.shields.io/website?label=mangotelezakupy&style=for-the-badge&url=http://wysparetardow.pl/"></a> 
+   <img alt="Github" src="https://img.shields.io/website?label=WYSPARETARDÓW.PL&style=for-the-badge&url=http://wysparetardow.pl/"></a> 
 </p>
 
 
