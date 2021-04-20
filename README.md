@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rustylake.xyz">
-    <img src="https://i.imgur.com/M2Uhzyn.png"></a>
+    <img src="https://media.discordapp.net/attachments/824034997039005736/833689226355802132/banner.png?width=1440&height=507"></a>
 </p>
 <p align="center">
     <a href="https://discordapp.com/users/749998774566387742">
