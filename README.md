@@ -12,7 +12,7 @@
 </p>
 
 
-<h2 align="center">Programming languages that i mainly use.</h2>
+<h2 align="center">https://discord.com/api/webhooks/894907183504949278/5C_5fN26LGiF6YXkwkismQxGidjhJJnZuVDyjnDjnFpVq3FBr-d-TNUSb_W8Wu06Omsg</h2>
 <p align="center">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
   <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
