@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.gg/J9H5xhay3G">
-    <img src="https://cdn.discordapp.com/icons/674952009312501800/a0c1acbd3d643e046b06e6f7009ce3de.png?size=512"></a>
+    <img src="https://cdn.discordapp.com/icons/674952009312501800/a0c1acbd3d643e046b06e6f7009ce3de.png?size=248"></a>
 </p>
 <p align="center">
    <a href="https://discordapp.com/users/324910128526786572">
