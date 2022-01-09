@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="http://wysparetardow.pl/">
-    <img src="https://media.discordapp.net/attachments/824034997039005736/847135843697164298/teaser.png?width=1214&height=683"></a>
+  <a href="https://discord.gg/J9H5xhay3G">
+    <img src="https://cdn.discordapp.com/icons/674952009312501800/a0c1acbd3d643e046b06e6f7009ce3de.png?size=512"></a>
 </p>
 <p align="center">
    <a href="https://discordapp.com/users/324910128526786572">
