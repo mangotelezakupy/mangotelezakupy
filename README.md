@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm .папайя</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mangotelezakupy&label=Profile%20views&color=0e75b6&style=flat" alt="mangotelezakupy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mangotelezakupy" alt="mangotelezakupy" /></a> </p>
-
 - 🔭 I’m currently working on [Familija.FUN](https://github.com/mangotelezakupy/familija.fun)
 
 - 🌱 I’m currently learning **Python & JS**
