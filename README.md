@@ -1,24 +1,77 @@
-<p align="center">
-  <a href="https://discord.gg/J9H5xhay3G">
-    <img src="https://cdn.discordapp.com/icons/674952009312501800/a0c1acbd3d643e046b06e6f7009ce3de.png?size=256"></a>
-</p>
-<p align="center">
-   <a href="https://discordapp.com/users/324910128526786572">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-papaya%233275-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
-   <a href="https://discord.gg/J9H5xhay3G">
-   <img alt="Github" src="https://img.shields.io/github/followers/mangotelezakupy?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
-   <a href="https://discord.gg/J9H5xhay3G">
-   <img alt="Github" src="https://img.shields.io/website?label=WEBSITE&style=for-the-badge&url=https://wysparetardow.pl/"></a> 
-</p>
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title>Familia</title>
+  <meta name="description" content="Find us online!">
+  <meta name="author" content="Seth Cottle">
+
+  <!-- Widok telefon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&amp;display=swap" rel="stylesheet">
 
 
-<h2 align="center">Programming languages that i mainly use.</h2>
-<p align="center">
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
-  <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
-  <img alt="c#" src="https://img.shields.io/badge/-CSHARP-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>
-  <img alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
-</p>
-<br/>
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton-auto.css">
+  <link rel="stylesheet" href="css/brands.css">
 
-</pre> 
+
+  <!-- Ikonka
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/avatar.png">
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="column" style="margin-top: 10%">
+
+        <img src="images/avatar.png" class="avatar" alt="Logo">
+
+
+
+        <h1>.папайя</h1>
+        <p>Hey, I'm .папайя :)</p>
+
+
+        <!-- YouTube -->
+        <a class="button button-yt" href="https://www.youtube.com/channel/UCZikzNzltKt6rinZk61b63Q" target="_blank" rel="noopener">
+            <img class="icon" src="images/icons/youtube.svg" alt="YouTube Logo">YouTube</a>
+        <br>
+
+        <!-- Discord -->
+        <a class="button button-discord" href="discord.html" target="_blank" rel="noopener">
+            <img class="icon" src="images/icons/discord.svg" alt="Discord Logo">Discord</a>
+        <br>
+        
+        <!-- Steam -->
+        <a class="button button-steam" href="https://steamcommunity.com/id/retardmango/" target="_blank" rel="noopener">
+            <img class="icon" src="images/icons/steam.svg" alt="Steam Logo">Steam</a>
+        <br>
+        
+        <!-- GitHub -->
+        <a class="button button-github" href="https://github.com/pjotrekdev" target="_blank" rel="noopener">
+            <img class="icon" src="images/icons/github.svg" alt="GitHub Logo">GitHub</a>
+        <br>
+
+        <!-- Pliki -->
+        <a class="button button-web" href="https://github.com/plikdiwida" target="_blank" rel="noopener">
+          <img class="icon" src="images/icons/pliki.svg" alt="Pliki Logo">Pliki</a>
+      <br>
+
+
+
+      <br>
+
+        <p><a href="https://familija.fun/" target="_blank" rel="noopener">familija.fun</a></p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
