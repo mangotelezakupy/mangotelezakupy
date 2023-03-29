@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm .папайя</h1>
-- 🔭 I’m currently working on [Familija.FUN](https://github.com/mangotelezakupy/familija.fun)
+- 🔭 I’m currently working on 
+      [Familija.FUN](https://github.com/mangotelezakupy/familija.fun)
+      [Familia Menu Rework](https://github.com/mangotelezakupy/familia_menu)
 
 - 🌱 I’m currently learning **Python & JS**
 
