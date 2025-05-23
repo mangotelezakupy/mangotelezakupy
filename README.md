@@ -31,6 +31,5 @@ JS ・ TypeScript ・ React ・ HTML ・ CSS ・ Git ・ ASP.NET ・ Docker ・ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangotelezakupy&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=mangotelezakupy&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
