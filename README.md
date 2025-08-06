@@ -1,5 +1,5 @@
 <h1 align="center">Pascal</h1>
-<p align="center">Aspiring fullstack dev learning from scratch. Focused on JavaScript, React & .NET.<br/>Work in progress – just like my code.</p>
+<p align="center">Aspiring fullstack dev learning from scratch. Focused on HTML, CSS and LUA.<br/>Work in progress – just like my code.</p>
 
 ---
 
@@ -10,7 +10,7 @@
 ---
 
 ### 🔧 Currently learning
-- JavaScript / React / .NET  
+- Lua
 
 ---
 
@@ -20,12 +20,12 @@
 ---
 
 ### 📬 Let's link up
-[Twitter](https://twitter.com/papaykaaa) ・ [YouTube](https://www.youtube.com/@warzyw.egzotyczny) ・ [Discord](@papayka)
+[Discord](@papayka)
 
 ---
 
 ### 🛠️ Toolbox
-JS ・ TypeScript ・ React ・ HTML ・ CSS ・ Git ・ ASP.NET ・ Docker ・ Electron ・ Photoshop ・ XD
+HTML ・ CSS ・ Adobe Photoshop ・ Adobe XD
 
 ---
 
